@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vk-designs.in/sitemap.xml
